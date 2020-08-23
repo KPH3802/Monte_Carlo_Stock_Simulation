@@ -3,5 +3,4 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <br>
 <br>
 <br>
-<p align="left"><img src="Images/MC_fiveyear_sim_plot.png" /></p>
-<p align="right"><img src="Images/MC_fiveyear_dist_plot.png"  /></p>
+<p align="left"><img src="Images/MC_fiveyear_sim_plot.png" /> <img src="Images/MC_fiveyear_dist_plot.png"  /></p>
