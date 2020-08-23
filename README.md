@@ -19,19 +19,7 @@
 Using the Alpaca API  to query the database for 5 years of data of daily stock returns for a hypothetical portfolio, Monte Carlo simulation of 1,000 simluations. Then visualizing the simulations.
 <br>
 <br>
-<style>
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 ### Equal weighted portfolio
 <div class="row">
   <div class="column">
