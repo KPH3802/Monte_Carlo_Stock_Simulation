@@ -27,8 +27,8 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 
 ### Nike 60% Weight
 <p float="left">
-  <img src="Images/MC_nike_fiveyear_sim_plot.png" width="425" />
-  <img src="Images/MC_nike_fiveyear_dist_plot.png" width="375" /> 
+  <img src="Images/MC_nike_fiveyear_sim_plot.png" width="462" />
+  <img src="Images/MC_nike_fiveyear_dist_plot.png" width="337" /> 
 </p>
 
 
