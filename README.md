@@ -5,3 +5,5 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <br>
 ![](Images/MC_fiveyear_sim_plot.png)
 ![](Images/MC_fiveyear_dist_plot.png)
+![](GitHub_Projects_Folder/Monte_Carlo_Stock_Simulation/Images/MC_att_fiveyear_sim_plot.png)
+![](GitHub_Projects_Folder/Monte_Carlo_Stock_Simulation/Images/MC_att_fiveyear_dist_plot.png)
