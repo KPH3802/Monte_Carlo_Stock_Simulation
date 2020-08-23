@@ -8,6 +8,25 @@ style="float: left; />
 
 <img src="Images/MC_fiveyear_dist_plot.png"
 style=float: right; />
+<table>
+<tr>
+<th> Simulation Plot </th>
+<th> Distrubtion Plot</th>
+</tr>
+<tr>
+<td>
+
+<img src="Images/MC_fiveyear_sim_plot.png"
+style="float: left; />
+
+</td>
+<td>
+
+<img src="Images/MC_fiveyear_dist_plot.png"
+style=float: right; />
+</td>
+</tr>
+</table
 
 <!-- <div class="row">
   <div class="col-md-4" markdown="1">
