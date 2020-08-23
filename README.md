@@ -7,4 +7,4 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <p align="center"><img src="Images/MC_fiveyear_sim_plot.png" width="1000" height="400" /></p>
 <br>
 <br>
-<p align="center"><img src="Images/MC_fiveyear_dist_plot.png" width="1000" height="400" /></p>
+<p align="center"><img src="Images/MC_fiveyear_dist_plot.png"  /></p>
