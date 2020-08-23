@@ -4,9 +4,16 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <br>
 
 ### Equal weighted portfolio
-
-![](Images/MC_fiveyear_sim_plot.png)
-![](Images/MC_fiveyear_dist_plot.png)
+<div class="row">
+  <div class="column">
+    <img src="Images/MC_fiveyear_sim_plot.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Images/MC_fiveyear_dist_plot.png" alt="Forest" style="width:100%">
+  </div>
+</div>
+<!-- ![](Images/MC_fiveyear_sim_plot.png)
+![](Images/MC_fiveyear_dist_plot.png) -->
 
 ### AT&T 60% Weight
 
