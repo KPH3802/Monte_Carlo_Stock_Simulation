@@ -14,14 +14,14 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 </div> -->
 <!-- ![](Images/MC_fiveyear_sim_plot.png) | ![](Images/MC_fiveyear_dist_plot.png) -->
 <p float="left">
-  <img src="Images/MC_fiveyear_sim_plot.png" width="475" />
-  <img src="Images/MC_fiveyear_dist_plot.png" width="325" /> 
+  <img src="Images/MC_fiveyear_sim_plot.png" width="462" />
+  <img src="Images/MC_fiveyear_dist_plot.png" width="337" /> 
 </p>
 
 ### AT&T 60% Weight
 <p float="left">
-  <img src="Images/MC_att_fiveyear_sim_plot.png" width="450" />
-  <img src="Images/MC_att_fiveyear_dist_plot.png" width="350" /> 
+  <img src="Images/MC_att_fiveyear_sim_plot.png" width="462" />
+  <img src="Images/MC_att_fiveyear_dist_plot.png" width="337" /> 
 </p>
 
 
@@ -35,8 +35,8 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 ### Exxon 60% Weight
 
 <p float="left">
-  <img src="Images/MC_exxon_fiveyear_sim_plot.png" width="400" />
-  <img src="Images/MC_exxon_fiveyear_dist_plot.png" width="400" /> 
+  <img src="Images/MC_exxon_fiveyear_sim_plot.png" width="462" />
+  <img src="Images/MC_exxon_fiveyear_dist_plot.png" width="337" /> 
 </p>
 
 
