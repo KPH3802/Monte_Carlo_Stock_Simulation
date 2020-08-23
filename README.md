@@ -5,10 +5,10 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <br>
 
 <div class="row">
-  <div class="col-md-6" markdown="1">
+  <div class="col-md-4" markdown="1">
   <img src="Images/MC_fiveyear_sim_plot.png">
   </div>
-    <div class="col-md-6" markdown="1">
+    <div class="col-md-4" markdown="1">
   <img src="Images/MC_fiveyear_dist_plot.png">
   </div>
 </div>
