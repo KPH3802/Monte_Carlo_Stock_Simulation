@@ -4,4 +4,4 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <br>
 <br>
 <br>
-<p align="center"><img src="Images/MC_fiveyear_sim_plot.png" width="800" height="400" /></p>
+<p align="center"><img src="Images/MC_fiveyear_sim_plot.png" width="1000" height="400" /></p>
