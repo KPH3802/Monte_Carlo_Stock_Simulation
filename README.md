@@ -15,7 +15,7 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <!-- ![](Images/MC_fiveyear_sim_plot.png) | ![](Images/MC_fiveyear_dist_plot.png) -->
 <p float="left">
   <img src="Images/MC_fiveyear_sim_plot.png" width="400" />
-  <img src="Images/MC_fiveyear_dist_plot.png" width="400" /> 
+  <img src="Images/MC_fiveyear_dist_plot.png" width="300" /> 
 </p>
 
 ### AT&T 60% Weight
