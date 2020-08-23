@@ -3,7 +3,12 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 <br>
 <br>
 <br>
-![](Images/MC_fiveyear_sim_plot.png){width=50%} ![](Images/MC_fiveyear_dist_plot.png){width=50%}
+<img src="Images/MC_fiveyear_sim_plot.png"
+style="float: left; />
+
+<img src="Images/MC_fiveyear_dist_plot.png"
+style=float: right; />
+
 <!-- <div class="row">
   <div class="col-md-4" markdown="1">
   <img src="Images/MC_fiveyear_sim_plot.png">
