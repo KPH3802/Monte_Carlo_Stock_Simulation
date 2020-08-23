@@ -17,8 +17,12 @@ Using the Alpaca API  to query the database for 5 years of data of daily stock r
 
 ### Nike 60% Weight
 
-### Exxom 60% Weight
+![](Images/MC_nike_fiveyear_sim_plot.png)
+![](Images/MC_nike_fiveyear_dist_plot.png)
 
+### Exxon 60% Weight
+![](Images/MC_exxon_fiveyear_sim_plot.png)
+![](Images/MC_exxon_fiveyear_dist_plot.png)
 
 
 <div class="end-examples"></div>
